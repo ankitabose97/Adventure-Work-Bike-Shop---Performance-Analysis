@@ -14,8 +14,6 @@ The company wants to  –
 This project involved the following tasks:
  - connecting and transforming the raw data using Power Query
 
- - connecting and transforming the raw data using Power Query
-
  - building a relational data model and report in Power BI Desktop 
 
  - creating calculated columns and measures using DAX
